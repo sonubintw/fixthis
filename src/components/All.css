@@ -1,0 +1,38 @@
+
+.bg-image{
+    background-image: url("../assests/pizza_on_plate_hd_food.jpg");
+    min-height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no repeat;
+}
+
+.text-content{
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.header-title{
+    text-transform :uppercase;
+    letter-spacing: 16px;
+    color: whitesmoke;
+    font-size: 80px;
+    margin-bottom: 30px;
+
+
+}
+.search-box{
+    padding-top: 100px !important;
+    padding-bottom: 20px !important;
+}
+.search-headind{
+    font-size: 30px;
+    margin-bottom: 1rem;
+}
+
+.detailsPageContent {
+    padding-top: 100px !important
+  }
